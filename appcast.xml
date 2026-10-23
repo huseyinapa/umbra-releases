@@ -3,31 +3,21 @@
     <channel>
         <title>Umbra</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Fri, 23 Oct 2026 15:17:45 +0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Fri, 23 Oct 2026 16:08:25 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Umbra 0.1.1 şu düzeltmeleri içerir:</p>
+            <description><![CDATA[<p>Umbra 0.1.2 şu iyileştirmeleri içerir:</p>
 <ul>
-<li>Ayarlar'daki Takvim izin satırı artık izin durumunu net gösterir (verildi, reddedildi, henüz sorulmadı); reddedildiyse Sistem Ayarları kısayolu öne çıkar.</li>
-<li>Ayarlar penceresi ilk açıldığında ilk öğede görünen mor odak halkası kaldırıldı; klavye gezintisinde halka korunur.</li>
-<li>Kullanım limitleri ayarının açıklaması tek cümleye indirildi.</li>
+<li>Umbra artık aynı anda birden fazla kez açılmaz; ikinci açılışta çalışan Umbra öne gelir.</li>
+<li>Güncelleme penceresindeki sürüm notları okunaklı ve sistem görünümüne uygun biçimde gösterilir.</li>
+<li>Güncelleme penceresinden "Bu sürümü atla" seçeneği kaldırıldı.</li>
+<li>Uygulama Uygulamalar klasörü dışından çalıştırılırsa Ayarlar'da bir kez taşıma notu gösterilir.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.1/Umbra-0.1.1.dmg" length="2964404" type="application/octet-stream" sparkle:edSignature="8zAwpDR/VRwJM0taDw8VATi9LFkJvuK/9zXUYmE1ik5jqy43NYdi7CAIcKCSsd2T6ev1WVOX//frkkaEyOwNCQ=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Fri, 23 Oct 2026 14:39:03 +0300</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Umbra 0.1.0: iyileştirmeler ve hata düzeltmeleri.</p>
-]]></description>
-            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.0/Umbra-0.1.0.dmg" length="2961906" type="application/octet-stream" sparkle:edSignature="/gz42zofGOdL7Qv8Eg0vVTZvvmq2FkX5dxwgflCFSA2TyrJC4JYjAZharxyMpQSCXjpTSh05rtJCItfrqdSAAw=="/>
+            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.2/Umbra-0.1.2.dmg" length="2982634" type="application/octet-stream" sparkle:edSignature="JMlJb00tMh27v/Bb94t4lCxZUA257PEUUh630UDsDExib3eVa4/jeOTwsORX11QF3zAQ780g5J8kTigDR1PNAA=="/>
         </item>
     </channel>
 </rss>
