@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Umbra</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 23 Oct 2026 14:39:03 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Umbra 0.1.0: iyileştirmeler ve hata düzeltmeleri.</p>
+]]></description>
+            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.0/Umbra-0.1.0.dmg" length="2961906" type="application/octet-stream" sparkle:edSignature="/gz42zofGOdL7Qv8Eg0vVTZvvmq2FkX5dxwgflCFSA2TyrJC4JYjAZharxyMpQSCXjpTSh05rtJCItfrqdSAAw=="/>
+        </item>
+    </channel>
+</rss>
