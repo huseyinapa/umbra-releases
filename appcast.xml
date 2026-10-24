@@ -3,21 +3,27 @@
     <channel>
         <title>Umbra</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Fri, 23 Oct 2026 16:08:25 +0300</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <title>0.1.3</title>
+            <pubDate>Sat, 24 Oct 2026 03:42:24 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Umbra 0.1.2 şu iyileştirmeleri içerir:</p>
+            <description><![CDATA[<h3>Yeni</h3>
 <ul>
-<li>Umbra artık aynı anda birden fazla kez açılmaz; ikinci açılışta çalışan Umbra öne gelir.</li>
-<li>Güncelleme penceresindeki sürüm notları okunaklı ve sistem görünümüne uygun biçimde gösterilir.</li>
-<li>Güncelleme penceresinden "Bu sürümü atla" seçeneği kaldırıldı.</li>
-<li>Uygulama Uygulamalar klasörü dışından çalıştırılırsa Ayarlar'da bir kez taşıma notu gösterilir.</li>
+<li><b>Yeni mesajlar</b> notch&#x27;ta görünür: iMessage ve SMS, iPhone&#x27;daki gibi kısa süre açılır (Ayarlar &gt; Etkinlikler &gt; Mesajlar, varsayılan kapalı)</li>
+<li>Önizlemeyi sen seçersin: <b>Gizli</b>, <b>Gönderen</b> ya da <b>Tam</b>; kilit ekranında hiçbir zaman gösterilmez</li>
+<li>Kişiler iznini verirsen gönderen, numara yerine rehberdeki adıyla görünür</li>
+</ul>
+<h3>İyileştirmeler</h3>
+<ul>
+<li>Boştayken daha az uyanır: tarayıcı medya yoklaması ekran uyurken ve kilitliyken durur, kimse ses çıkarmıyorsa gereksiz sorgular atlanır</li>
+<li>Ses yokken dalga formu daha seyrek güncellenir; imleç notch yakınında değilken fare hareketi işlenmez</li>
+<li>Parlaklık yoklaması seyrekleştirildi (HUD en fazla yarım saniye gecikebilir)</li>
+<li>Sessize alınmış ya da sesi kapalı bir tarayıcı sekmesi, ses çıkarana kadar notch&#x27;ta görünmez</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.2/Umbra-0.1.2.dmg" length="2982634" type="application/octet-stream" sparkle:edSignature="JMlJb00tMh27v/Bb94t4lCxZUA257PEUUh630UDsDExib3eVa4/jeOTwsORX11QF3zAQ780g5J8kTigDR1PNAA=="/>
+            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.3/Umbra-0.1.3.dmg" length="3074765" type="application/octet-stream" sparkle:edSignature="xVd/wD4MP1Dkqdr6bIZbzUyYJ9kgTDjU2Ky41LIlhpvDsR+ep9AbJlrgUkMjyQRBR8mt9zqVR84jq5SmiYT9AQ=="/>
         </item>
     </channel>
 </rss>
