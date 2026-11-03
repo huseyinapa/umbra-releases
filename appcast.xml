@@ -3,27 +3,31 @@
     <channel>
         <title>Umbra</title>
         <item>
-            <title>0.1.3</title>
-            <pubDate>Sat, 24 Oct 2026 03:42:24 +0300</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <title>0.1.4</title>
+            <pubDate>Tue, 03 Nov 2026 12:41:25 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<h3>Yeni</h3>
 <ul>
-<li><b>Yeni mesajlar</b> notch&#x27;ta görünür: iMessage ve SMS, iPhone&#x27;daki gibi kısa süre açılır (Ayarlar &gt; Etkinlikler &gt; Mesajlar, varsayılan kapalı)</li>
-<li>Önizlemeyi sen seçersin: <b>Gizli</b>, <b>Gönderen</b> ya da <b>Tam</b>; kilit ekranında hiçbir zaman gösterilmez</li>
-<li>Kişiler iznini verirsen gönderen, numara yerine rehberdeki adıyla görünür</li>
+<li><b>WhatsApp mesajları</b> notch&#x27;ta görünür (Ayarlar &gt; Mesajlar): bire bir ve grup, önizleme modlarıyla; sessiz sohbetler gösterilmez</li>
+<li><b>Adanın ekranı seçilebilir</b> (Ayarlar &gt; Genel &gt; Ekran): ada seçtiğin ekranda durur ve kilitliyken de orada kalır; &quot;Otomatik&quot; önceki davranıştır</li>
+<li><b>Yeni DMG penceresi</b>: Umbra ve Applications simgeleri arasında ince gümüş ok; DMG birimi Umbra simgesiyle bağlanır</li>
 </ul>
 <h3>İyileştirmeler</h3>
 <ul>
-<li>Boştayken daha az uyanır: tarayıcı medya yoklaması ekran uyurken ve kilitliyken durur, kimse ses çıkarmıyorsa gereksiz sorgular atlanır</li>
-<li>Ses yokken dalga formu daha seyrek güncellenir; imleç notch yakınında değilken fare hareketi işlenmez</li>
-<li>Parlaklık yoklaması seyrekleştirildi (HUD en fazla yarım saniye gecikebilir)</li>
-<li>Sessize alınmış ya da sesi kapalı bir tarayıcı sekmesi, ses çıkarana kadar notch&#x27;ta görünmez</li>
+<li><b>Yeni Ayarlar penceresi</b>: solda kategori listesi, sağda içerik; yeniden boyutlandırılabilir, boyutu hatırlanır; &quot;Gelişmiş&quot; sekmesi kalktı, mesaj izinleri İzinler sayfasında da görünür</li>
+<li><b>Uyarılar tek kartta</b>: açık notch&#x27;ta pil, takvim, kullanım limiti, güncelleme ve mesaj uyarıları yuvarlak simgeli, çerçevesiz bir kart olarak görünür; çalan şarkı altında mini satır olarak kalır</li>
+</ul>
+<h3>Düzeltmeler</h3>
+<ul>
+<li><b>Mesajlarda kişi adı</b> numara farklı yazılmış olsa bile (+90, 0 öneki, boşluklar) rehberden bulunur</li>
+<li>Kilitlenirken kilit simgesi, macOS pencereleri küçültüp kaydırırken titremez; ekran yerine oturunca belirir</li>
+<li>Kilit ve uyanma geçişlerinde yerleşik ekrandaki notch kısa süre yüzen hapa dönüşüp yerinden çıkmaz</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.3/Umbra-0.1.3.dmg" length="3074765" type="application/octet-stream" sparkle:edSignature="xVd/wD4MP1Dkqdr6bIZbzUyYJ9kgTDjU2Ky41LIlhpvDsR+ep9AbJlrgUkMjyQRBR8mt9zqVR84jq5SmiYT9AQ=="/>
+            <enclosure url="https://github.com/huseyinapa/umbra-releases/releases/download/v0.1.4/Umbra-0.1.4.dmg" length="4128000" type="application/octet-stream" sparkle:edSignature="yAJwzPmY/VsoaJrGYhtx/Ce7STJ+aNZlsV+yEW0VLtY2jYnjijf0O4b3+wTM5fgP2MjN+tvVVMMbYSVR6CR8AA=="/>
         </item>
     </channel>
 </rss>
